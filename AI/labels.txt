@@ -1,0 +1,8 @@
+orang
+mobil
+motor
+sepeda
+bangku
+lubang
+tembok
+pohon
